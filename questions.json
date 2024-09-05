@@ -1,0 +1,276 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "The prefix \"dis-\" usually means:",
+        "options": [
+            "Above",
+            "Not or opposite of",
+            "Below",
+            "Inside"
+        ],
+        "correct": 1,
+        "explanation": "The prefix \"dis-\" typically means \"not\" or \"opposite of,\" as in \"disagree\" (not agree) or \"disconnect\" (opposite of connect)."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "The prefix \"in-\" always means \"inside.\" ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "While \"in-\" can mean \"inside\" in some cases, it more commonly means \"not\" or \"without,\" as in \"inactive\" (not active) or \"insecure\" (without security)."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Fill in the blank: The opposite of \"appear\" is \"___appear.\" ",
+        "options": [
+            "disappear",
+            "subappear"
+        ],
+        "correct": 0,
+        "explanation": "The prefix \"dis-\" is added to \"appear\" to create its opposite, meaning \"to vanish.\""
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which prefix would you use to create the opposite of \"regular\"?",
+        "options": [
+            "dis-",
+            "in-",
+            "im-",
+            "ir-"
+        ],
+        "correct": 3,
+        "explanation": "\"Ir-\" is used before words beginning with 'r', so \"irregular\" is the opposite of \"regular.\""
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "\"Impatient\" means \"very patient.\" ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "The prefix \"im-\" means \"not\" or \"without,\" so \"impatient\" means \"not patient\" or \"lacking patience.\""
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Fill in the blank: A \"___marine\" vessel operates underwater. ",
+        "options": [
+            "dis",
+            "sub"
+        ],
+        "correct": 1,
+        "explanation": "\"Sub-\" means \"under\" or \"below,\" so a \"submarine\" is a vessel that operates under the sea."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Which word means \"not relevant\"?",
+        "options": [
+            "Disrelevant",
+            "Inrelevant",
+            "Imrelevant",
+            "Irrelevant"
+        ],
+        "correct": 3,
+        "explanation": "\"Ir-\" is used before words starting with 'r', so \"irrelevant\" means \"not relevant.\""
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "\"Impossible\" means \"very possible.\" ",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "The prefix \"im-\" means \"not\" or \"without,\" so \"impossible\" means \"not possible.\""
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Fill in the blank: The prefix \"sub-\" in \"substandard\" means ________. ",
+        "options": [
+            "above",
+            "below"
+        ],
+        "correct": 1,
+        "explanation": "\"Sub-\" means \"under\" or \"below,\" so \"substandard\" means \"below the standard.\""
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Which prefix would you use to create the opposite of \"mobile\"?",
+        "options": [
+            "dis-",
+            "in-",
+            "im-",
+            "ir-"
+        ],
+        "correct": 2,
+        "explanation": "\"Im-\" is used before words beginning with 'm', so \"immobile\" is the opposite of \"mobile.\""
+    },
+    
+        {
+            "questionNo": "Q11.",
+            "question": "\"Disorganised\" means \"too much organised.\" ",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct": 1,
+            "explanation": "The prefix \"dis-\" means \"not\" or \"opposite of,\" so \"disorganised\" means \"not organised.\""
+        },
+        {
+            "questionNo": "Q12.",
+            "question": "Fill in the blank: \"___secure\" means \"not secure.\" ",
+            "options": [
+                "in",
+                "im"
+            ],
+            "correct": 0,
+            "explanation": "The prefix \"in-\" means \"not\" or \"without,\" so \"insecure\" means \"not secure.\""
+        },
+        {
+            "questionNo": "Q13.",
+            "question": "Which word means \"under the surface\"?",
+            "options": [
+                "Dissurface",
+                "Insurface",
+                "Subsurface",
+                "Irsurface"
+            ],
+            "correct": 2,
+            "explanation": "\"Sub-\" means \"under\" or \"below,\" so \"subsurface\" means \"under the surface.\""
+        },
+        {
+            "questionNo": "Q14.",
+            "question": "\"Irresponsible\" means \"very responsible.\" ",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct": 1,
+            "explanation": "The prefix \"ir-\" means \"not\" or \"opposite of,\" so \"irresponsible\" means \"not responsible.\""
+        },
+        {
+            "questionNo": "Q15.",
+            "question": "Which prefix would you use to create the word meaning \"not visible\"?",
+            "options": [
+                "dis-",
+                "in-",
+                "im-",
+                "ir-"
+            ],
+            "correct": 1,
+            "explanation": "\"In-\" is used to create \"invisible,\" meaning \"not visible.\""
+        },
+        {
+            "questionNo": "Q16.",
+            "question": "Fill in the blank: \"___perfect\" means \"not perfect.\" ",
+            "options": [
+                "in",
+                "im"
+            ],
+            "correct": 1,
+            "explanation": "The prefix \"im-\" is used before words starting with 'p', so \"imperfect\" means \"not perfect.\""
+        },
+        {
+            "questionNo": "Q17.",
+            "question": "Which word means \"not rational\"?",
+            "options": [
+                "Disrational",
+                "Inrational",
+                "Imrational",
+                "Irrational"
+            ],
+            "correct": 3,
+            "explanation": "\"Ir-\" is used before words starting with 'r', so \"irrational\" means \"not rational.\""
+        },
+        {
+            "questionNo": "Q18.",
+            "question": "\"Disconnect\" means \"to connect strongly.\" ",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct": 1,
+            "explanation": "The prefix \"dis-\" means \"not\" or \"opposite of,\" so \"disconnect\" means \"to undo a connection.\""
+        },
+        {
+            "questionNo": "Q19.",
+            "question": "Fill in the blank: A \"___committee\" is a smaller group within a larger committee.",
+            "options": [
+                "incommitee",
+                "subcommittee"
+            ],
+            "correct": 1,
+            "explanation": "\"Sub-\" means \"under\" or \"subordinate,\" so a \"subcommittee\" is a smaller, subordinate committee."
+        },
+        {
+            "questionNo": "Q20.",
+            "question": "Which prefix would you use to create the opposite of \"patient\"?",
+            "options": [
+                "dis-",
+                "in-",
+                "im-",
+                "ir-"
+            ],
+            "correct": 2,
+            "explanation": "\"Im-\" is used before words beginning with 'p', so \"impatient\" is the opposite of \"patient.\""
+        },
+        {
+            "questionNo": "Q21.",
+            "question": "\"Inactive\" means \"not active.\" ",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct": 0,
+            "explanation": "The prefix \"in-\" means \"not\" or \"without,\" so \"inactive\" means \"not active.\""
+        },
+        {
+            "questionNo": "Q22.",
+            "question": "Fill in the blank: \"___regular\" means \"not regular.\" ",
+            "options": [
+                "ir",
+                "in",
+                "im"
+            ],
+            "correct": 0,
+            "explanation": "The prefix \"ir-\" is used before words starting with 'r', so \"irregular\" means \"not regular.\""
+        },
+        {
+            "questionNo": "Q23.",
+            "question": "Which word means \"below zero\"?",
+            "options": [
+                "Diszero",
+                "Inzero",
+                "Subzero",
+                "Irzero"
+            ],
+            "correct": 2,
+            "explanation": "\"Sub-\" means \"under\" or \"below,\" so \"subzero\" means \"below zero.\""
+        },
+        {
+            "questionNo": "Q24.",
+            "question": "\"Substandard\" means \"above standard.\"",
+            "options": [
+                "True",
+                "False"
+            ],
+            "correct": 1,
+            "explanation": "\"Sub-\" means \"under\" or \"below,\" so \"substandard\" means \"below standard.\""
+        },
+        {
+            "questionNo": "Q25.",
+            "question": "Fill in the blank: \"___relevant\" means \"not relevant.\" ",
+            "options": [
+                "ir",
+                "dis",
+                "in",
+                "none of the above"
+            ],
+            "correct": 0,
+            "explanation": "The prefix \"ir-\" is used before words starting with 'r', so \"irrelevant\" means \"not relevant.\""
+        }
+
+    
+]
